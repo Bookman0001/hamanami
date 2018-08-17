@@ -19,7 +19,7 @@ namespace WindowsFormsApplication2.Properties {
     // または Visual Studio のようなツールを使用して自動生成されました。
     // メンバーを追加または削除するには、.ResX ファイルを編集して、/str オプションと共に
     // ResGen を実行し直すか、または VS プロジェクトをビルドし直します。
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -63,49 +63,9 @@ namespace WindowsFormsApplication2.Properties {
         /// <summary>
         ///   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.Drawing.Bitmap cloud {
+        internal static System.Drawing.Bitmap if__svg_2093656 {
             get {
-                object obj = ResourceManager.GetObject("cloud", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
-        /// </summary>
-        internal static System.Drawing.Bitmap CvyjqJAVYAETPsv {
-            get {
-                object obj = ResourceManager.GetObject("CvyjqJAVYAETPsv", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
-        /// </summary>
-        internal static System.Drawing.Bitmap rain {
-            get {
-                object obj = ResourceManager.GetObject("rain", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
-        /// </summary>
-        internal static System.Drawing.Bitmap snow {
-            get {
-                object obj = ResourceManager.GetObject("snow", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
-        /// </summary>
-        internal static System.Drawing.Bitmap sunny {
-            get {
-                object obj = ResourceManager.GetObject("sunny", resourceCulture);
+                object obj = ResourceManager.GetObject("if_.svg_2093656", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
